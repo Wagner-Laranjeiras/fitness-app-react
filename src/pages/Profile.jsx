@@ -11,7 +11,7 @@ const Profile = () => {
             </div>
             <div>
                 <Link to={'/workouts'}>
-                    <button>
+                    <button className="bg-black text-white" >
                         Workouts
                     </button>
                 </Link>
